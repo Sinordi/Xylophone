@@ -11,6 +11,19 @@ import AVFoundation
 
 class ViewController: UIViewController {
     
+    
+    /*
+     
+     fhhahwhf
+     e
+     f
+     ef
+     
+     we
+     f
+     e
+     */
+    
     var player: AVAudioPlayer!
 
     override func viewDidLoad() {
